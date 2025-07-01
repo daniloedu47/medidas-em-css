@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 5vh;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  padding: 2em;
+  background-color: #023047;
+  color: #fff;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5em;
+}body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 5vh;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  padding: 2em;
+  background-color: #023047;
+  color: #fff;
+}
+
+h1 {
+  font-siz
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  font-size: 1em;
+  margin: 1em 0;
+}
+
+.cartaz {
+  width: 80%;
+  margin: 2em auto;
+  padding: 2em;
+  background-color: #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  align-items: center;
+  justify-content: center;
+}
+
+.imagem-destaque {
+  width: 50vw;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+
+.descricao {
+  max-width: 500px;
+}
+
+.botao-inscricao {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #fb8500;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.botao-inscricao:hover {
+  background-color: #ffb703;
+}
+
+footer {
+  text-align: center;
+  margin-top: 2em;
+  padding: 1em;
+  background-color: #219ebc;
+  color: #fff;
+}
